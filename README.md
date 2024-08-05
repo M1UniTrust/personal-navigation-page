@@ -1,7 +1,5 @@
 # 绿色自适应网址发布页
 
-![https://www.hualigs.cn/image/634d67687e52d.jpg](https://www.hualigs.cn/image/634d67687e52d.jpg)
-
 #### 介绍
 
 - 响应式布局兼容手机端
